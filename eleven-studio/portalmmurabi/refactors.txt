@@ -1,1 +1,0 @@
-List teams that contributed for refactoring the code or bug fixes.
