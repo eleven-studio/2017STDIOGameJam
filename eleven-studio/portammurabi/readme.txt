@@ -9,10 +9,10 @@ Bye !
 
 !!! You'll need to download the folders 'art' and 'errors' and put them in the same folder as 'build.exe' to run the game. !!!
 
-main : 60 lines
-printStuff : 9 lines
-questions : 111 lines
-readInput : 48 lines
-headers : 11 lines
+main.c : 60 lines
+printStuff.c : 8 lines
+questions.c : 111 lines
+readInput.c : 48 lines
+headers.h : 11 lines
 
-total : 239 lines
+total : 238 lines
